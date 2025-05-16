@@ -42,6 +42,7 @@ Install dependencies:
 pip install --upgrade pip
 pip install -r requirements.txt
 
+```
 
 👤 Contributor
 
@@ -50,4 +51,7 @@ pip install -r requirements.txt
 - GitHub: [@sentayhu19](https://github.com/sentayhu19)
 - Twitter: [@VoltageBerhanu](https://twitter.com/VoltageBerhanu)
 - LinkedIn: [sentayhu-berhanu](https://www.linkedin.com/in/sentayhu-berhanu-6376579a/)
+
+```
+
 ```
